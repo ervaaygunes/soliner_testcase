@@ -119,26 +119,6 @@ Uygulama ilk çalıştırıldığında gerekli tablolar otomatik olarak oluştur
 5. Tema seçiminizi yapın
 6. Profil kartınızı paylaşın
 
-## 📸 Ekran Görüntüleri
-
-- Login/Register sayfaları
-- Dashboard
-- Profil kartı
-- Proje yönetimi
-- Ayarlar
-
-## 🚀 Gelecek Özellikler
-
-- [ ] Avatar yükleme
-- [ ] Proje resim yükleme
-- [ ] Veri dışa aktarma (JSON/CSV)
-- [ ] Profil görüntülenme sayacı
-- [ ] Email ile profil paylaşımı
-- [ ] QR kod oluşturma
-
-## 👨‍💻 Geliştirici
-
-Bu proje PRD dökümanındaki gereksinimlere göre geliştirilmiştir.
 
 ## 📄 Lisans
 
